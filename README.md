@@ -1,7 +1,3 @@
 # Робот для участия в инженерной игре "Рой" команды "Robotics Tomorrow" НИЯУ МИФИ
 В репозиториии хранятся 3Д модели, схематика и програмный код проекта.
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+<img alt="Изображение робота" src="https://github.com/fmtrifonov/RT-swarm-robot/blob/main/Images/initial-image.png">
